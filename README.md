@@ -173,7 +173,7 @@ python demo_prog.py --disable_preview
 
 Here we also provide a minimal working example of the inference runtime of our method. Check out the following runtimes and see your result on Colab.
 
-[Colab Runtime 1](https://colab.research.google.com/drive/1XwZ4VI12CX2v9561-WD5EJwoSTJPFBbr?usp=sharing/) : Image to painting translation (progressive rendering)
+[Colab Runtime 1](https://colab.research.google.com/drive/1DHyNA3PF2FeqJa5PB4MfI0lmpt17EmiB) : Image to painting translation (progressive rendering)
 
 [Colab Runtime 2](https://colab.research.google.com/drive/1ch_41GtcQNQT1NLOA21vQJ_rQOjjv9D8?usp=sharing/) : Image to painting translation with image style transfer 
 
